@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on EVERSE
 - 📫 How to reach me sanje.antona.fenkart@cern.ch
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I know how to "Hippopotomonstrosesquippedaliophobia" without stumbling over the word.
+- ⚡ Fun fact: I know how to say "Hippopotomonstrosesquippedaliophobia" without stumbling over the word.
 
 <!---
 SanjeAntona/SanjeAntona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
